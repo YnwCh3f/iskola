@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='ISO-8859-2'?>
+<orafelb tip='ker' ver='3.0'>
+ <keret rov='INF20k' nev='Informatika és távközlés technikum' okj='-' evek='5' kezd='2020.09'>
+  <hetek het1='36' het2='36' het3='36' het4='31' het5='31' />
+  <import fajl='keretek\202009\_koz20k.xml' />
+  <targy rov='MVÁI' mk='X' tip='EM' ev1='000' ev2='018' ev3='000' ev4='000' ev5='000' nev='Munkavállalói ismeretek' /> 10-ben kell, de 22/23-ban megvolt a 9. évfolyamon
+  <targy rov='MVN'  mk='X' tip='EM' ev1='000' ev2='000' ev3='000' ev4='000' ev5='062' nev='Munkavállalói idegen nyelv' />
+  <targy rov='ITA1' mk='I' tip='GY' ev1='108' ev2='000' ev3='000' ev4='000' ev5='000' nev='Informatikai és távközlési alapok I.' />
+  <targy rov='ITA2' mk='I' tip='GY' ev1='000' ev2='144' ev3='000' ev4='000' ev5='000' nev='Informatikai és távközlési alapok II.' />
+  <targy rov='PRA'  mk='I' tip='GY' ev1='072' ev2='072' ev3='000' ev4='000' ev5='000' nev='Programozási alapok' />
+  <targy rov='IKT1' mk='I' tip='GY' ev1='054' ev2='108' ev3='000' ev4='000' ev5='000' nev='IKT projektmunka I.' />
+  <targy rov='IKT2' mk='I' tip='GY' ev1='000' ev2='000' ev3='108' ev4='093' ev5='000' nev='IKT projektmunka II.' />
+  <targy rov='AAF'  mk='I' tip='GY' ev1='000' ev2='000' ev3='144' ev4='124' ev5='000' nev='Asztali alkalmazások fejlesztése' />
+  <targy rov='AB1'  mk='I' tip='GY' ev1='000' ev2='000' ev3='072' ev4='000' ev5='000' nev='Adatbázis-kezelés I.' />
+  <targy rov='AB2'  mk='I' tip='GY' ev1='000' ev2='000' ev3='000' ev4='000' ev5='062' nev='Adatbázis-kezelés II.' />
+  <targy rov='AMF'  mk='I' tip='GY' ev1='000' ev2='000' ev3='000' ev4='000' ev5='217' nev='Asztali és mobil alkalmazások fejlesztése és tesztelése' />
+  <targy rov='SZFT' mk='I' tip='GY' ev1='000' ev2='000' ev3='000' ev4='062' ev5='000' nev='Szoftvertesztelés' />
+  <targy rov='WEB'  mk='I' tip='GY' ev1='000' ev2='000' ev3='108' ev4='093' ev5='000' nev='Webprogramozás' />
+  <targy rov='FPT'  mk='I' tip='GY' ev1='000' ev2='000' ev3='000' ev4='000' ev5='217' nev='Frontend programozás és tesztelés' />
+  <targy rov='BPT'  mk='I' tip='GY' ev1='000' ev2='000' ev3='000' ev4='000' ev5='186' nev='Backend programozás és tesztelés' />
+  <targy rov='SZAN' mk='N' tip='EM' ev1='000' ev2='000' ev3='072' ev4='062' ev5='000' nev='Szakmai angol' />
+ </keret>
+</orafelb>

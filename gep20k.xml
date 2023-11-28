@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='ISO-8859-2'?>
+<orafelb tip='ker' ver='3.0'>
+ <keret rov='GEP20k' nev='Gépészeti technikum' okj='-' evek='4' kezd='2020.09'>
+  <hetek het1='36' het2='36' het3='36' het4='31' />
+  <import fajl='keretek\202009\_koz20k.xml' />
+  <targy rov='MVÁI' mk=''  tip='EM' ev1='000.0' ev2='018.0' ev3='000.0' ev4='000.0' ev5='000.0' nev='Munkavállalói ismeretek'/>
+  <targy rov='GAI'  mk='I' tip='EG' ev1='144.0' ev2='126.0' ev3='000.0' ev4='000.0' ev5='000.0' nev='Gépészeti alapismeretek' />
+   <resz rov='MBTK' mk='X' tip='EM' ev1='018.0' ev2='000.0' ev3='000.0' ev4='000.0' ev5='000.0' nev='Munkabiztonság, tűz- és környezetvédelem' />
+   <resz rov='MRA'  mk='I' tip='EM' ev1='036.0' ev2='036.0' ev3='000.0' ev4='000.0' ev5='000.0' nev='Műszaki rajz alapjai' />
+   <resz rov='AGYI' mk='I' tip='EM' ev1='018.0' ev2='000.0' ev3='000.0' ev4='000.0' ev5='000.0' nev='Anyag- és gyártásismeret' />
+   <resz rov='FAMG' mk='I' tip='GY' ev1='072.0' ev2='000.0' ev3='000.0' ev4='000.0' ev5='000.0' nev='Fémipari alapmegmunkálások (gyakorlat)' />
+   <resz rov='POG'  mk='I' tip='GY' ev1='000.0' ev2='090.0' ev3='000.0' ev4='000.0' ev5='000.0' nev='Projektmunka (gyakorlat)' />
+    <nev rov='FGÉP' mk='I' tip='EM' ev1='000.0' ev2='000.0' ev3='000.0' ev4='000.0' ev5='000.0' nev='Felzárkóztatás (gépész)' />
+  <targy rov='VAI'  mk='I' tip='EG' ev1='108.0' ev2='180.0' ev3='000.0' ev4='000.0' ev5='000.0' nev='Villamos alapismeretek' />
+   <resz rov='VAIE' mk='I' tip='EM' ev1='036.0' ev2='072.0' ev3='000.0' ev4='000.0' ev5='000.0' nev='Villamos alapismeretek elmélet' />
+   <resz rov='VAIG' mk='I' tip='GY' ev1='072.0' ev2='108.0' ev3='000.0' ev4='000.0' ev5='000.0' nev='Villamos alapismeretek gyakorlat' />
+    <nev rov='FEL'  mk='I' tip='EM' ev1='000.0' ev2='000.0' ev3='000.0' ev4='000.0' ev5='000.0' nev='Felzárkóztatás (elektronika)' />
+ </keret>
+</orafelb>  
+
